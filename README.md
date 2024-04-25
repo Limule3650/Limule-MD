@@ -1,4 +1,4 @@
-Death-limule Md </h1> 
+    Death-limule Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -37,9 +37,9 @@ Death-limule Md </h1>
 <p align="center">
 
  <a href="https://github.com/Limule3650/Death-limule-MD-">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
+ <img title="Owner" src="https://img.shields.io/badge/Death-limule-MD-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/Limule3650/Death-limule-MD-">
-    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
+    <img src="https://img.shields.io/github/followers/Death-limule-MD-?style=flat-square&logo=github&color=darkred">
   </a>
 
   
