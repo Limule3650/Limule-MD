@@ -15,32 +15,34 @@ Death-limule Md </h1>
     
    
    
+ 
+   
 <p align="center">
    <a href="https://github.com/Limule3650/Death-limule-MD-/fork">
     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/Limule3650/Death-limule-MD-/stargazers"> 
-     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=stargazers">
+     <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
-  <a aria-label="Death-limule_MD is free to use" href="https://youtube.com/@JOURNALDESTEMPEST?si=J88r-_6TcZvQIifZ" target="_blank">
-    <img alt="Deathlimulemd Yt" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=YouTube" />
+  <a aria-label="Death-limule-MD is free to use" href="https://youtube.com/@JOURNALDESTEMPEST?si=J88r-_6TcZvQIifZ" target="_blank">
+    <img alt="Deathlimulemd Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred" alt="Deathlimulemd :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
 
 <p align="center">
 
  <a href="https://github.com/Limule3650/Death-limule-MD-">
- <img title="Owner" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=owner"></a>
+ <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/Limule3650/Death-limule-MD-">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=like">
+    <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
   </a>
-  
 
+  
  
  </p>
 
