@@ -9,7 +9,7 @@ h1 align="center"> Death-limule Md </h1>
 
 <p align="center">
   <a href="https://youtube.com/@JOURNALDESTEMPEST?si=J88r-_6TcZvQIifZ">
-    <img alt="Death-limule-MD" height="400" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+    <img alt="Death-limule-MD" height="400" src="https://telegra.ph/file/bd43452155de6bb06f26d.jpg">
   </a>
 </p>
     
@@ -20,13 +20,13 @@ h1 align="center"> Death-limule Md </h1>
     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/Limule3650/Death-limule-MD-/stargazers"> 
-     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=stargazers">
  </a>
 
 
 
   <a aria-label="Death-limule_MD is free to use" href="https://youtube.com/@JOURNALDESTEMPEST?si=J88r-_6TcZvQIifZ" target="_blank">
-    <img alt="Deathlimulemd Yt" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred target=_blank" />
+    <img alt="Deathlimulemd Yt" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=YouTube" />
   </a>
 
 </p>
@@ -37,7 +37,7 @@ h1 align="center"> Death-limule Md </h1>
  <a href="https://github.com/Limule3650/Death-limule-MD-">
  <img title="Owner" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=owner"></a>
    <a href="https://github.com/Limule3650/Death-limule-MD-">
-    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
+    <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=like">
   </a>
   
 
