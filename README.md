@@ -1,4 +1,4 @@
-h1 align="center"> Death-limule Md </h1> 
+Death-limule Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
