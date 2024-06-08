@@ -2,7 +2,7 @@
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/Limule3650/Death-limule-MD-/Death-limule-MD-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/Limule3650/Death-limule-MD-/Death-limule-MD-Media">🏠 FEATURES 🏠</a></h3> 
 
 <h4 align="center"> 
 
