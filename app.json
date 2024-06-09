@@ -80,12 +80,12 @@
     "OWNER_NUMBER" : {
      "description" : "Enter your number.",
      "required" : true,
-     "value" : "+237693538738,+237698581946"
+     "value" : "+237693538738,+237698581946,+22897669189"
     },
     "OWNER_NAME" : {
      "description" : "Enter your name.",
      "required" : true,
-     "value" : "God limule solitarius"
+     "value" : "God limule solitarius,Mr Death"
     },
     "ANTIWORDS_MSG": {
       "description": "Message send when antiword.",
