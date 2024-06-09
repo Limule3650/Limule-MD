@@ -105,7 +105,7 @@
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/4YEUtGlqkl4). `Optional`***
 3.  ***Click [`FORK`](https://github.com/Limule3650/Death-limule-MD-/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy FREE on `Codespace,` First watch tutorial [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).***
+5.  ***Deploy on [`HEROKU`](https://github.com/Limule3650/Death-limule-MD-/app.json).***
 ##
 
  <details close>
