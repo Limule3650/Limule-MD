@@ -31,14 +31,13 @@ Limule-md - un simple whatsapp bot pour vous.
 #### DEPLOY TO HEROKU
 1. If You don't have an heroku account. Create an account.
     <br>
-<a href='https://app.heroku.com/auth/signup' target="_blank"><img alt='heroku' src='https://img.shields.io/badge/-Create-red?style=for-the-badge&logo=keroku&logoColor=violet'/></a>
+<a href='https://signup.heroku.com/identity' target="_blank"><img alt='heroku' src='https://img.shields.io/badge/-Create-violet?style=for-the-badge&logo=keroku&logoColor=violet'/></a>
 
 2. Now Deploy
 
-#### RUN ON VPS/UBUNTU/WINDOWS
 
 
 For help visit [Github wiki](https://github.com/Limule3650/Death-limule-md/wiki)
 
 ***
-<a href="https://whatsapp.com/channel/0029Va4OxFAGk1FjrFvTJa1V"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=red"/></a>
+<a href="https://whatsapp.com/channel/0029VahIcmX4o7qQ9GO2Pk0d"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-green?style=for-the-badge&logo=whatsapp&logoColor=blue"/></a>
